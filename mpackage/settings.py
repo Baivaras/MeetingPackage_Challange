@@ -37,13 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'rest_framework',
-'django_extensions',
+
     # own apps
     'venues',
 ]
-GRAPH_MODELS = {
-  'app_labels': ["venues"],
-}
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
