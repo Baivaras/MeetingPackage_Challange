@@ -17,7 +17,7 @@ databases etc.
 ### Database Venue Model
 Picture below shows how Venue object will be stored inside the database
 
-![](./Venue Database Model.png)
+![](Venue Database Model.png)
 
 ## Installation
 
